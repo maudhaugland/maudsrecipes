@@ -6,23 +6,19 @@ layout: recipe
 ---
 ![](../uploads/nadya-spetnitskaya-toyiqxf9-ys-unsplash.jpg)
 
-**Ingredients**
+## **Ingredients**
 
-50 g yeast (fresh)
-
-1,5 dl lukewarm water
-
-75 g melted butter
-
-2 dl milk
-
-75 g sugar
-
-1 teaspoon cardamom 
-
-500 g wheat flour
+* 50 g yeast (fresh)
+* 1,5 dl lukewarm water
+* 75 g melted butter
+* 2 dl milk
+* 75 g sugar
+* 1 teaspoon cardamom 
+* 500 g wheat flour
 
 
+
+## Method
 
 1. Take the yeast and pull it apart with your fingers into small crumbs and put it into the lukewarm water to dissolve the yeast. 
 2. Melt the butter. Mix the milk into the melted butter before adding it into the yeast mixture. Add the sugar, cardamom and flour gradually while slowly mixing it in a food processor. 
