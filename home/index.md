@@ -1,9 +1,10 @@
 ---
-layout: recipeshome
-title: Here is the name of your recipe site
-permalink: "/"
+title: "Bolleboka: Scandinavian Sweet Buns"
 coverimage: ../uploads/bookcover.jpg
+permalink: /
+layout: recipeshome
 published: true
+date: 2023-02-09T18:12:15.202Z
 ---
 
 Here is an introduction to my recipe site
