@@ -1,5 +1,5 @@
 ---
-title: The Basic Sweet Bun Dough
+title: Bolledeig (The Basic Sweet Bun Dough)
 date: 2023-02-07T14:51:09.932Z
 order: 1
 layout: recipe
