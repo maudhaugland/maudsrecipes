@@ -1,5 +1,5 @@
 ---
-title: Cardamom buns
+title: Kardemommebolle (Cardamom buns)
 date: 2023-02-09T17:33:24.142Z
 order: 3
 layout: recipe
