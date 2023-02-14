@@ -1,6 +1,6 @@
 ---
 title: "Bolleboka: Scandinavian Sweet Buns"
-coverimage: ../uploads/bookcover.jpg
+coverimage: ../uploads/cover-recipe-book1.png
 permalink: /
 layout: recipeshome
 published: true
