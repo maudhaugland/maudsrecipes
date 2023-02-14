@@ -1,5 +1,5 @@
 ---
-title: "Skolebolle "
+title: Skolebolle (School buns)
 date: 2023-02-14T13:26:20.967Z
 order: 4
 layout: recipe
