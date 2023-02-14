@@ -20,7 +20,10 @@
  margin-top: 0;
 }
 
-
+.recipelist h1 {
+  color: black;
+  text-decoration: none;
+}
 
 header {
   position: fixed;
