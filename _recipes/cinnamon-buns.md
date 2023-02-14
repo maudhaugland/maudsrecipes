@@ -4,22 +4,18 @@ date: 2023-02-07T22:51:00.034Z
 order: 2
 layout: recipe
 ---
-
-
 The cinnamon bun has become the number one sweet staple in the Scandinavian baking scene. A simple swirl or a complicated knot, pearl sugar or icing, the ways to customise this tasty favourite are endless. Personally, I like it fresh, warm and simple. 
 
 ![](../uploads/oscar-nord-zoliwdyxxdg-unsplash.jpg)
 
-
-
-### **Ingredients for filling**
+## **Ingredients for filling**
 
 * 4 tablespoons butter 
 * 2 tablespoons sugar
 * 1 tablespoon cinnamon
 * 1 tablespoon wheat flour
 
-### Method
+## Method
 
 1. Follow the basic dough recipe until step 4, then proceed to this.
 2. Wait for the butter to be room temperature, then mix everything together in a bowl with a spoon until it is soft. 
