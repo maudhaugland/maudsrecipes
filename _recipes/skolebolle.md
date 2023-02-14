@@ -4,9 +4,7 @@ date: 2023-02-14T13:26:20.967Z
 order: 4
 layout: recipe
 ---
-
-
-Intro
+My personal favourite! The skolebolle, or school bun if one transliterates it, is a sweet, delicious treat perfect for a sunny Sunday afternoon. The vanilla custard filling combined with the coconut icing is sure to make your mouth water and is luckily very easy to make.
 
 ![Seven buns covered in coconut icing with custard in the middle.](../uploads/329472491_8707107009331181_1917280828661317506_n.jpg)
 
@@ -16,8 +14,6 @@ Intro
 * Powdered sugar
 * Desiccated coconut
 * Water
-
-
 
 ## Method
 
