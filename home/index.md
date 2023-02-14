@@ -6,11 +6,4 @@ layout: recipeshome
 published: true
 date: 2023-02-09T18:12:15.202Z
 ---
-
-Here is an introduction to my recipe site
-
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Who doesn’t love a sweet bun? Since the 1950s, Scandinavians in particular have been crazy about sweet buns, or boller, so much so that the smell of freshly baked sweet buns just out of the oven is seen as the ultimate sign of a nice, cosy home. And I don’t know what Scandinavians value more than being cosy. The Danish concept of *hygge* and the Swedish *fika* have become quite popular here in the UK the last few years, and the sweet bun is an essential part of both *hygge* and *fika*. Now I want to show you how to make some of my favourite sweet buns so you can implement the Scandinavian way of having a cosy time into your life.**
