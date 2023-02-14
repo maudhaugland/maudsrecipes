@@ -4,9 +4,13 @@ date: 2023-02-09T17:33:24.142Z
 order: 3
 layout: recipe
 ---
-![](../uploads/oliver-plattner-iih409y8rjy-unsplash.jpg)
+
 
 The cardamom bun is very similar to the classic cinnamon bun, and a good alternative to those who don’t like their buns too sweet. It has been a classic in Swedish bakeries for a long time, and now its popularity is spreading like wildfire to the rest of Scandinavia. Maybe the UK is next? 
+
+![](../uploads/oliver-plattner-iih409y8rjy-unsplash.jpg)
+
+
 
 ## Ingredients
 
