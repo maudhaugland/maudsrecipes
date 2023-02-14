@@ -1,5 +1,5 @@
 ---
-title: "Bolleboka: Scandinavian Sweet Buns"
+title: Scandinavian Sweet Buns
 coverimage: ../uploads/cover-recipe-book1.png
 permalink: /
 layout: recipeshome
