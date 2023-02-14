@@ -1,5 +1,5 @@
 ---
-title: Cinnamon buns
+title: Kanelbolle (Cinnamon buns)
 date: 2023-02-07T22:51:00.034Z
 order: 2
 layout: recipe
