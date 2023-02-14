@@ -1,5 +1,5 @@
 ---
-title: Lucia buns
+title: Lussekatter (Lucia buns)
 date: 2023-02-07T13:05:49.166Z
 order: 5
 layout: recipe
