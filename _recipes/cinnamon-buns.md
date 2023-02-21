@@ -4,6 +4,8 @@ date: 2023-02-07T22:51:00.034Z
 order: 2
 layout: recipe
 ---
+# Cinnamon buns
+
 The cinnamon bun has become the number one sweet staple in the Scandinavian baking scene. A simple swirl or a complicated knot, pearl sugar or icing, the ways to customise this tasty favourite are endless. Personally, I like it fresh, warm and simple. 
 
 ![](../uploads/oscar-nord-zoliwdyxxdg-unsplash.jpg)
