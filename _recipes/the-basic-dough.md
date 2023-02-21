@@ -4,6 +4,8 @@ date: 2023-02-07T14:51:09.932Z
 order: 1
 layout: recipe
 ---
+# Bolledeig (The Basic Sweet Bun Dough)
+
 This is the recipe you need to bookmark! You will need it for most of the following recipes, as it is the ultimate sweet bun dough recipe my family has been using for decades. It will give you delicios, airy and soft buns that are perfectly good on their own, with raisins or some of the various different fillings I will provide you with later.
 
 ![](../uploads/nadya-spetnitskaya-toyiqxf9-ys-unsplash.jpg)
