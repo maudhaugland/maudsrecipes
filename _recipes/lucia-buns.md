@@ -4,6 +4,8 @@ date: 2023-02-07T13:05:49.166Z
 order: 5
 layout: recipe
 ---
+# Lussekatter (Lucia buns)
+
 Lucia day, the 13th of December, starts early in the pitch black morning with children in kindergardens and primary schools all over Sweden and Norway are dressed in white robes, lighting up the hallways and singing about St Lucia who fed and brought joy to prisoners in Sicily hundreds of years ago (and was ultimately burned at the stake). The children will hold baskets brimming with homemade Lucia buns, giving them out to anyone they pass on their way. Yellow with safron, they are the colour of candlelight. And personally, I think the most fun part of making them is being creative with the shapes.
 
 ![](../uploads/329858308_920890952431910_8125871654744726509_n.jpg)
