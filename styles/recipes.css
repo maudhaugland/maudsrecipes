@@ -16,13 +16,17 @@
 
 
 
-.recipehome p {
+.recipeshome p {
  margin-top: 0;
+ width: 92%;
+}
 
+.recipeshome h2 {
+margin-top: 40px;
 }
 
 .recipelist h1 a {
-  color:rgb(221, 194, 75);
+  color:rgba(203, 103, 56, 0.964);
   text-decoration: none;
   text-align: center;
   text-decoration-color: black;
@@ -30,7 +34,17 @@
 }
 
 .recipelist header h1 a {
-  color:rgb(251, 245, 234)
+  color:rgb(251, 245, 234);
+}
+
+
+.recipe h1 a{
+color:rgb(251, 245, 234);
+text-decoration: none;
+}
+
+.recipe h1 a:hover{
+  color:rgb(211, 234, 251);
 }
 
 header {
@@ -90,17 +104,20 @@ p {
   color: rgb(55, 52, 52);
   margin-bottom: 10px;
   padding-left: 10px;
+  
 }
 
 ul {
   margin-bottom: 10px;
-  margin-top: 20px;
+  margin-top: 10px;
   margin-left: 30px;
   columns: 2;
 }
 
 ol {
   margin-left: 30px;
+  margin-bottom: 30px;
+  width: 85%;
 }
 
 li {
@@ -125,6 +142,7 @@ img {
   margin-top: 20px;
 }
 
+
 .caption {
   width:50%;
   text-align: right;
@@ -133,17 +151,27 @@ img {
 
 button {
   font-size:larger;
-  color: black;
-  text-decoration-color: black;
   background-color: rgb(221, 194, 75);
   padding: 8px;
   display: block;
   float: right;
-  margin-bottom: 5px;
+  margin-bottom: 20px;
 }
 
+button a{
+  color:rgb(55, 52, 52);
+  text-decoration: none;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: bold;
+}
+
+button a:hover {
+  color:rgb(211, 234, 251);
+}
+
+
 .recipe-teaser {
-border: 1px solid black;
+border: 2.5px solid rgb(211, 234, 251);
 flex-basis: 300px;
 flex-grow: 1;
 padding: 1em;
@@ -171,13 +199,9 @@ main {
   width: 100%;
 }
 
-body{
-
-}
-
 }
 
 nav {
   background-color:rgb(221, 194, 75);
-  
+
 }
