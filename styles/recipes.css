@@ -114,6 +114,39 @@ ul {
   columns: 2;
 }
 
+nav ul{
+  columns: 1;
+  list-style: none;
+  margin-left: 3px;
+  margin-right: 0;
+font-style: bold;
+font-size: 0.9rem;
+}
+ 
+nav ul a{
+  color:rgba(140, 48, 6, 0.964);
+  text-decoration: none;
+  font-style: bold; 
+font-size: 1;
+}
+
+nav ul a:hover{
+color:rgb(211, 234, 251);
+}
+
+nav {
+  display: block;
+  /* border: 1px solid red; */
+  width: 18%;
+  padding: 10px;
+  margin: 0;
+min-width: 120px;
+position:fixed;
+top:7.5em;
+left:0;
+z-index: 12;
+}
+
 ol {
   margin-left: 30px;
   margin-bottom: 30px;
@@ -192,7 +225,8 @@ nav {
 }
 
 nav ul {
-  font-size: 1rem;
+  font-size: 0.9rem;
+
 }
 
 main {
@@ -203,5 +237,7 @@ main {
 
 nav {
   background-color:rgb(221, 194, 75);
+  padding: 5px;
 
 }
+
